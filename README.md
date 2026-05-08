@@ -31,12 +31,7 @@ console.log(result); // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ## Requirements
 
 - Node.js
-
-This project is configured to use:
-
-```sh
-pnpm@9.12.2
-```
+- pnpm or other package maneger
 
 ## Setup
 
