@@ -1,0 +1,27 @@
+{
+  "name": "primo-sorting-exam",
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.12.2",
+  "description": "",
+  "main": "dist/sorter.js",
+  "types": "dist/sorter.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "typecheck:test": "tsc -p tsconfig.spec.json --noEmit",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Phanasorn Srisayam",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^20.12.12",
+    "jest": "^30.4.1",
+    "ts-jest": "^29.4.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
