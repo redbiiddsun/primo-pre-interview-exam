@@ -1,4 +1,4 @@
-# Primo Sorting Exam
+# Primo Pre-interview Sorting Exam
 
 TypeScript project for merging three sorted number collections into one ascending result.
 
